@@ -1,0 +1,28 @@
+{
+  "name": "tank-koa-backend",
+  "version": "1.0.0",
+  "description": "mockServer for tank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talktanke/tank-koa-backend.git"
+  },
+  "author": "vincente",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/talktanke/tank-koa-backend/issues"
+  },
+  "homepage": "https://github.com/talktanke/tank-koa-backend#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-json-error": "^3.1.2",
+    "koa-parameter": "^3.0.1",
+    "koa-router": "^9.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
